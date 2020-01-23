@@ -4,8 +4,9 @@ We recommend saving the following style guides to your computer or mobile device
 
 ### English Style Guides
 
-* TCMI Form and Style Guide
-* [TCMI APA Citation Style Guide](https://github.com/kalebheitzman/tcm-gitbook/blob/master/.gitbook/assets/apa-citation-style-guide.doc) 
+{% file src="../../.gitbook/assets/form-and-style-guidelines-eng.docx" caption="TCMI Form and Style Guide" %}
+
+{% file src="../../.gitbook/assets/apa-citation-style-guide.doc" caption="TCMI APA Citation Style Guide" %}
 
 ### Russian Style Guides
 
