@@ -22,7 +22,13 @@ A critical book review evaluates the entire book by providing a summary, analysi
 
 ### How to Write a Book Review
 
+#### English 
+
 {% file src="../../.gitbook/assets/book-review\_\_reading-thinking-part-1.pptx" caption="How to Write A Book Review \(Part 1 - Reading and Thinking\)" %}
 
+{% file src="../../.gitbook/assets/book-review\_\_writing-part-2.pptx" caption="How to Write a Book Review \(Part 2 - Writing\)" %}
 
+{% file src="../../.gitbook/assets/book-revew-expectations.pdf" caption="Book Review Expectations" %}
+
+#### Russian
 
