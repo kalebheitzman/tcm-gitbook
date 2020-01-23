@@ -13,8 +13,10 @@ There are many online tools and apps available to help you collaborate with with
     <tr>
       <td style="text-align:left"><a href="https://coggle.it/about">Coggle.it</a>
       </td>
-      <td style="text-align:right"><em>Coggle</em> gives you a clear way to share and
-        <br />understand complex information using Mind Maps.</td>
+      <td style="text-align:right">Coggle gives you a clear way to share and understand complex information.
+        <br
+        />It&apos;s a collaborative document that simplifies complex things and
+        a shared workspace to help your team work more effectively together.</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://www.dropbox.com/paper">Dropbox Paper</a>
@@ -22,12 +24,8 @@ There are many online tools and apps available to help you collaborate with with
       <td style="text-align:right">
         <p><em>Dropbox Paper</em> is a new type of document designed for creative
           work.</p>
-        <p>Collaborate in real time, assign tasks, make to-do lists and more.</p>
+        <p>Collaborate in real time, assign tasks, make to-do list and more.</p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:right"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
