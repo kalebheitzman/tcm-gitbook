@@ -6,7 +6,7 @@ description: An Introduction to Internet Etiquette
 
 
 
-A significant portion of your time with TCM will be spent online interacting with faculty and other students. We expect you to treat yourself and those you interact with in a dignified manner. Below are some helpful hints for your online social activity.
+A significant portion of your time with TCMI will be spent online interacting with faculty and other students. We expect you to treat yourself and those you interact with in a dignified manner. Below are some helpful hints for your online social activity.
 
 > _Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ ****The second is this: ‘Love your neighbor as yourself.’ There is no commandment greater than these.”  
 > –Mark 12:30-31 \(NIV\)_
