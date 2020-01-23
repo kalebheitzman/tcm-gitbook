@@ -24,7 +24,7 @@ There are many online tools and apps available to help you collaborate with with
       <td style="text-align:right">
         <p><em>Dropbox Paper</em> is a new type of document designed for creative
           work.</p>
-        <p>Collaborate in real time, assign tasks, make to-do list and more.</p>
+        <p>Collaborate in real time, assign tasks, make to-do lists and more.</p>
       </td>
     </tr>
     <tr>
