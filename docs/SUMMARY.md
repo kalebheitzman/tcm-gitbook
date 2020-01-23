@@ -21,6 +21,7 @@
   * [Evaluating Sources](orientation-to-graduate-studies/research-guidelines/evaluating-sources.md)
   * [Online Research Sources](orientation-to-graduate-studies/research-guidelines/online-research-sources.md)
 * [Learning Styles](orientation-to-graduate-studies/learning-styles.md)
+* [Online Tools and Apps](orientation-to-graduate-studies/online-tools-and-apps.md)
 * [Online Resources](orientation-to-graduate-studies/online-resources.md)
 
 ## Hybrid Learning
