@@ -13,7 +13,7 @@ There are many online tools and apps available to help you collaborate with with
     <tr>
       <td style="text-align:left"><a href="https://coggle.it/about">Coggle.it</a>
       </td>
-      <td style="text-align:right">Coggle gives you a clear way to share and
+      <td style="text-align:right"><em>Coggle</em> gives you a clear way to share and
         <br />understand complex information using Mind Maps.</td>
     </tr>
     <tr>
