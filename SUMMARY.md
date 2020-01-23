@@ -39,11 +39,3 @@
 * [Active Learning Model](faculty-resources/active-learning-model.md)
 * [Flipped Classroom for F2](faculty-resources/flipped-classroom-for-f2.md)
 
-## Moodle for Faculty Video Series
-
-* [Start](moodle-for-faculty-video-series/start.md)
-
-## Moodle for Students Video Series
-
-* [Start](moodle-for-students-video-series/start.md)
-
