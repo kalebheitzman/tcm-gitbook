@@ -20,3 +20,9 @@ TCMI written assignments are expected to follow our [Writing Style Guidelines.](
 
 A critical book review evaluates the entire book by providing a summary, analysis, and appraisal of the book. The first step to a well-written book review, is a careful reading of the book.
 
+### How to Write a Book Review
+
+{% file src="../../.gitbook/assets/book-review\_\_reading-thinking-part-1.pptx" caption="How to Write A Book Review \(Part 1 - Reading and Thinking\)" %}
+
+
+
