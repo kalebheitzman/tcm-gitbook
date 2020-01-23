@@ -1,5 +1,5 @@
 ---
-description: An Introduction to Internet Etiquette
+description: An Introduction to Internet Etiquette.
 ---
 
 # Netiquette
