@@ -1,5 +1,5 @@
 ---
-description: This knowledge base contains a curated list of resources
+description: 'A Collection of Resources for Students, Faculty, and Staff.'
 ---
 
 # Knowledge Base
