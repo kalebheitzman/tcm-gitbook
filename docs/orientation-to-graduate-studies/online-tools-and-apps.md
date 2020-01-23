@@ -19,6 +19,14 @@ There are many online tools and apps available to help you collaborate with with
         <p>Collaborate in real time, assign tasks, make to-do list and more.</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://coggle.it/about">Coggle.it</a>
+      </td>
+      <td style="text-align:right">Coggle gives you a clear way to share and understand complex information.
+        <br
+        />It&apos;s a collaborative document that simplifies complex things and
+        a shared workspace to help your team work more effectively together.</td>
+    </tr>
   </tbody>
 </table>
 
