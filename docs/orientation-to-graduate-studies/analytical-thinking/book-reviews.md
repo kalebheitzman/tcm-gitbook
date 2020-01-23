@@ -32,3 +32,11 @@ A critical book review evaluates the entire book by providing a summary, analysi
 
 #### Russian
 
+{% file src="../../.gitbook/assets/recenzie-carte-\_-citire-meditare-partea-1.pptx" caption="How to Write a Book Review \(Part 1 - Reading and Thinking\)" %}
+
+{% file src="../../.gitbook/assets/recenzie-carte-\_-scriere-partea-2.pptx" caption="How to Write a Book Review \(Part 2 - Writing\)" %}
+
+{% file src="../../.gitbook/assets/cerinte-pentru-o-recenzie-bine-scrisa.pdf" caption="Book Review Expectations" %}
+
+
+
