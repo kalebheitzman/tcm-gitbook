@@ -10,6 +10,9 @@ We recommend saving the following style guides to your computer or mobile device
 
 ### Russian Style Guides
 
-* TCMI Form and Style Guide
-* TCMI APA Citation Style Guide
+{% file src="../../.gitbook/assets/instructiuni-de-forma-si-stil-ro.docx" caption="TCMI Form and Style Guide" %}
+
+{% file src="../../.gitbook/assets/ghidul-citarilor-stilul-apa-ro.docx" caption="TCMI APA Citation Style Guide" %}
+
+
 
