@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Knowledge Base](README.md)
+* [База знаний](README.md)
 
 ## Orientation to Graduate Studies
 

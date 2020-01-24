@@ -1,6 +1,6 @@
 ---
-description: 'A Collection of Resources for Students, Faculty, and Staff.'
+description: 'Сборник ресурсов для студентов, преподавателей и сотрудников.'
 ---
 
-# Knowledge Base
+# База знаний
 
