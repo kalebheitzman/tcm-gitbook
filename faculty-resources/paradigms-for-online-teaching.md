@@ -4,6 +4,10 @@ description: A guide for becoming more effective in the Online Classroom
 
 # Paradigms for Online Teaching
 
+### Responsive Design
+
+We live in an ever increasing mobile world. Any teaching that does not consider the use of mobile phones, tablets, and laptops combined will fail to meet the needs and culture of rising generations. **Responsive Design** is the concept of designing material so that it is as easily viewable on a mobile device as it is a laptop. 
+
 ### Better Online Discussion
 
 * [Adjust the structure of online discussions](https://www.facultyfocus.com/articles/online-education/organic-online-discussions-saving-time-and-increasing-engagement/) from students starting threads \(from post-and-reply-to-two\) to the instructor starting them which creates a more organic discussion structure similar to classroom conversations.
