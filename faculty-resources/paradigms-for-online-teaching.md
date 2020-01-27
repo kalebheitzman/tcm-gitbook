@@ -22,6 +22,8 @@ When linking to external websites and resources, do a quality check to make sure
 
 #### Related Resources
 
+* [Percentage of mobile device website traffic worldwide from 1st quarter 2015 to 3rd quarter 2019](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/)
+
 ### Better Online Discussion
 
 * [Adjust the structure of online discussions](https://www.facultyfocus.com/articles/online-education/organic-online-discussions-saving-time-and-increasing-engagement/) from students starting threads \(from post-and-reply-to-two\) to the instructor starting them which creates a more organic discussion structure similar to classroom conversations.
