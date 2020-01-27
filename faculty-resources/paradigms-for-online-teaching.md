@@ -18,7 +18,9 @@ We live in an ever increasing mobile world. Mobile use has increased by 222% ove
 
 #### Outside Links
 
+When linking to external websites and resources, do a quality check to make sure these resources display well on mobile, tablet, and laptop. 
 
+#### Related Resources
 
 ### Better Online Discussion
 
@@ -34,7 +36,7 @@ _Remember, the goal of the discussion is to have a great conversation while you 
 
 ![](../.gitbook/assets/blooms-taxonomy.png)
 
-**Related Resource**
+#### **Related Resources**
 
-* [Organic Online Discussions: Saving Time and Increasing Engagement](https://www.facultyfocus.com/articles/online-education/organic-online-discussions-saving-time-and-increasing-engagement/)
+[Organic Online Discussions: Saving Time and Increasing Engagement](https://www.facultyfocus.com/articles/online-education/organic-online-discussions-saving-time-and-increasing-engagement/)
 
