@@ -28,7 +28,7 @@ When linking to external websites and resources, do a quality check to make sure
 ### Better Online Discussion
 
 * [Adjust the structure of online discussions](https://www.facultyfocus.com/articles/online-education/organic-online-discussions-saving-time-and-increasing-engagement/) from students starting threads \(from post-and-reply-to-two\) to the instructor starting them which creates a more organic discussion structure similar to classroom conversations.
-* Ask open-ended question from the deep end of Bloom’s Taxonomy.
+* Ask open-ended question from the deep end of [Bloom’s Taxonomy.](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
 * [Pin the Instructor-initiated thread](https://moodleuserguides.org/guides/pin-thread-top-discussion-forum/) to the top of the forum to keep it in front of students.
 
 **Add clear instructions.** _Feel free to copy and paste these instructions in your first topic:_ ****
