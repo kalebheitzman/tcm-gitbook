@@ -6,8 +6,12 @@ description: A guide for becoming more effective in the Online Classroom
 
 ### Better Online Discussion
 
-* Adjust the structure of online discussions from students starting threads \(from post-and-reply-to-two\) to the instructor starting them which creates a more organic discussion structure similar to classroom conversations.
+* [Adjust the structure of online discussions](https://www.facultyfocus.com/articles/online-education/organic-online-discussions-saving-time-and-increasing-engagement/) from students starting threads \(from post-and-reply-to-two\) to the instructor starting them which creates a more organic discussion structure similar to classroom conversations.
 * Ask open-ended question from the deep end of Bloom’s Taxonomy.
 
 ![](../.gitbook/assets/blooms-taxonomy.png)
+
+**Related Resource**
+
+* [Organic Online Discussions: Saving Time and Increasing Engagement](https://www.facultyfocus.com/articles/online-education/organic-online-discussions-saving-time-and-increasing-engagement/)
 
