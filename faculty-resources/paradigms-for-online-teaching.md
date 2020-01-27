@@ -6,7 +6,7 @@ description: A guide for becoming more effective in the Online Classroom
 
 ### Responsive Design
 
-We live in an ever increasing mobile world. Mobile use has increased by 222% over the last five years \(as of 2019\) and approximately 50% of internet use now comes through mobile devices with a continued trend upward. Any teaching that does not consider the use of mobile phones, tablets, and laptops combined will fail to meet the needs and culture of rising generations. 
+We live in an ever increasing mobile world. Mobile use has increased by **222%** over the last five years \(as of 2019\) and approximately **50%** of internet use now comes through mobile devices with a continued trend upward. Any teaching that does not consider the use of mobile phones, tablets, and laptops combined will fail to meet the needs and culture of rising generations. 
 
 **Responsive Design** is the concept of designing material so that it is as easily viewable on a mobile device as it is a laptop. Content should either resize to fit the screen or be appropriate for all screen sizes. There a several different medium for presenting content across devices \(mobile, tablet, laptop\) and within each of these mediums are the ability to design with responsiveness in mind.
 
