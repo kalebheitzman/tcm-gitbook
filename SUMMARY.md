@@ -31,6 +31,7 @@
 
 ## Faculty Resources
 
+* [Paradigms for Online Teaching](faculty-resources/paradigms-for-online-teaching.md)
 * [Moodle](faculty-resources/moodle/README.md)
   * [Keynotes & Slides](faculty-resources/moodle/keynotes-and-slides.md)
   * [Online Community](faculty-resources/moodle/online-community.md)
