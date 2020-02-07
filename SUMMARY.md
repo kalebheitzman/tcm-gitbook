@@ -6,6 +6,7 @@
 
 * [Welcome](orientation-to-graduate-studies/welcome.md)
 * [Netiquette](orientation-to-graduate-studies/netiquette.md)
+* [Learning Styles](orientation-to-graduate-studies/learning-styles.md)
 * [Moodle](orientation-to-graduate-studies/moodle/README.md)
   * [How to Login](orientation-to-graduate-studies/moodle/how-to-login.md)
   * [What to Expect](orientation-to-graduate-studies/moodle/what-to-expect.md)
@@ -19,8 +20,7 @@
   * [Integrated Reflection](orientation-to-graduate-studies/analytical-thinking/integrated-reflection.md)
 * [Research Guidelines](orientation-to-graduate-studies/research-guidelines/README.md)
   * [Evaluating Sources](orientation-to-graduate-studies/research-guidelines/evaluating-sources.md)
-  * [Online Research Sources](orientation-to-graduate-studies/research-guidelines/online-research-sources.md)
-* [Learning Styles](orientation-to-graduate-studies/learning-styles.md)
+* [Online Research Sources](orientation-to-graduate-studies/online-research-sources.md)
 * [Online Tools and Apps](orientation-to-graduate-studies/online-tools-and-apps.md)
 * [Online Resources](orientation-to-graduate-studies/online-resources.md)
 
