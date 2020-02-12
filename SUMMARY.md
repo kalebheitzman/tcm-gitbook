@@ -16,7 +16,6 @@
   * [Style Guides](orientation-to-graduate-studies/analytical-thinking/style-guides.md)
   * [Book Reviews](orientation-to-graduate-studies/analytical-thinking/book-reviews.md)
   * [Exegetical Papers](orientation-to-graduate-studies/analytical-thinking/exegetical-papers.md)
-  * [Case Studies](orientation-to-graduate-studies/analytical-thinking/case-studies.md)
   * [Integrated Reflection](orientation-to-graduate-studies/analytical-thinking/integrated-reflection.md)
 * [Research Guidelines](orientation-to-graduate-studies/research-guidelines/README.md)
   * [Evaluating Sources](orientation-to-graduate-studies/research-guidelines/evaluating-sources.md)
