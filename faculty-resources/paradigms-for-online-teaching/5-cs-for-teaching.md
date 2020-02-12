@@ -33,5 +33,5 @@ Choice is about giving students the ability to initiate and the teacher the abil
 
 What students will remember most is your interest in them. 
 
-_The greatest of these is Love. –1 Corinthians 13:13_ 
+_The greatest of these is Love. –1 Corinthians 13:13_
 
