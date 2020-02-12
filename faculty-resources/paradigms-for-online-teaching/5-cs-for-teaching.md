@@ -1,8 +1,8 @@
 ---
-description: 'Choice, Collaboration, Communication, Critical Thinking, Creativity'
+description: 'Choice, Collaboration, Communication, Critical Thinking, Creativity, Caring'
 ---
 
-# 5 C's for Teaching
+# 6 C's for Teaching
 
 {% embed url="https://www.youtube.com/watch?v=UCFg9bcW7Bk" %}
 
@@ -28,4 +28,10 @@ Choice is about giving students the ability to initiate and the teacher the abil
 ### Critical Thinking \(Problem Solving\) 
 
 ### Creativity \(a uniquely human pleasure\)
+
+### Caring
+
+What students will remember most is your interest in them. 
+
+_The greatest of these is Love. –1 Corinthians 13:13_
 
