@@ -31,6 +31,7 @@
 ## Faculty Resources
 
 * [Paradigms for Online Teaching](faculty-resources/paradigms-for-online-teaching/README.md)
+  * [5 C's for Teaching](faculty-resources/paradigms-for-online-teaching/5-cs-for-teaching.md)
   * [Responsive Design](faculty-resources/paradigms-for-online-teaching/responsive-design.md)
   * [Better Online Discussion](faculty-resources/paradigms-for-online-teaching/better-online-discussion.md)
 * [Moodle](faculty-resources/moodle/README.md)
