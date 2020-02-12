@@ -1,3 +1,7 @@
+---
+description: 'Choice, Collaboration, Communication, Critical Thinking, Creativity'
+---
+
 # 5 C's for Teaching
 
 {% embed url="https://www.youtube.com/watch?v=UCFg9bcW7Bk" %}
