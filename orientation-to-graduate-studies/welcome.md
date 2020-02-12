@@ -6,7 +6,7 @@ description: >-
 
 # Welcome
 
-**Myron Williams, Director of Distance Learning** I remember starting graduate school many, many years ago and what I remember is how scared I was going back in school after 2 years of being away. I had no idea what the expectations were, but I soon discovered some unspoken expectations in addition to known expectations. It’s some of these unspoken expectations I want to pass along to you this week; along with some information about TCM International Institute.
+**Myron Williams, Director of Distance Learning** I remember starting graduate school many, many years ago and what I remember is how scared I was going back in school after 2 years of being away. I had no idea what the expectations were, but I soon discovered some unspoken expectations in addition to known expectations. It’s some of these unspoken expectations I want to pass along to you, along with some information about TCM International Institute.
 
 ### _History of TCM International Institute_
 
