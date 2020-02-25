@@ -16,6 +16,7 @@
 * [Online Research Sources](orientation-to-graduate-studies/online-research-sources.md)
 * [Online Tools and Apps](orientation-to-graduate-studies/online-tools-and-apps.md)
 * [Online Resources](orientation-to-graduate-studies/online-resources.md)
+* [TCM Library](orientation-to-graduate-studies/tcm-library.md)
 
 ## Hybrid Learning
 
