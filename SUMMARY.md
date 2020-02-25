@@ -5,9 +5,10 @@
 ## Orientation to Graduate Studies
 
 * [Welcome](orientation-to-graduate-studies/welcome.md)
-* [Netiquette](orientation-to-graduate-studies/netiquette.md)
+* [Mobile Education](orientation-to-graduate-studies/mobile-education.md)
 * [Learning Styles](orientation-to-graduate-studies/learning-styles.md)
 * [Moodle](orientation-to-graduate-studies/moodle/README.md)
+  * [Netiquette](orientation-to-graduate-studies/moodle/netiquette.md)
   * [How to Login](orientation-to-graduate-studies/moodle/how-to-login.md)
   * [What to Expect](orientation-to-graduate-studies/moodle/what-to-expect.md)
   * [What is Expected](orientation-to-graduate-studies/moodle/whats-expected.md)
